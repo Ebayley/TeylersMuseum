@@ -1,0 +1,24 @@
+img {
+    max-width: 100%;
+
+}
+
+body {
+    /*background-image: url('teylers_museum.jpg');*/
+    color: rgb(0, 0, 0);
+    background-color: rgb(77, 111, 49);
+    font-family: sans-serif;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    
+}
+
+div {
+    background-color: rgb(255, 255, 255, 0.8);
+    padding: 10px;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
